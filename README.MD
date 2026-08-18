@@ -4,7 +4,7 @@
 ---
 
 ### Sobre Mim
-Graduando em Engenharia da Computação baseado em Apiaí, São Paulo. Movido pela curiosidade de entender o funcionamento de sistemas de baixo nível, infraestrutura de redes e cibersegurança. Foco em experimentação prática por meio da construção de laboratórios locais, configuração de serviços essenciais de rede e investigação do comportamento de protocolos.
+Graduando em Engenharia da Computação com base em Apiaí, SP. Movido pelo interesse profundo no funcionamento de sistemas de baixo nível, infraestrutura de redes e cibersegurança. Desenvolvo competências por meio de experimentação prática e laboratórios locais, com foco na configuração de serviços de rede, análise de protocolos e automação de processos.
 
 ---
 
