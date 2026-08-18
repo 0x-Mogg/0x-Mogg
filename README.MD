@@ -26,3 +26,4 @@ Graduando em Engenharia da Computação baseado em Apiaí, São Paulo. Movido pe
 * **Automação & Scripting:** Desenvolvimento de fluxos de trabalho via CLI, scripts de processamento de texto e automação de manipulação de documentos utilizando Python e Bash.
 
 ---
+**GitHub:** [0x-Mogg](https://github.com/0x-Mogg)
