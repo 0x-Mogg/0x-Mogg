@@ -1,29 +1,29 @@
-# Enmanuel Avelar
-## Estudante de Engenharia da Computação & Entusiasta de Sistemas e Redes
+0x-Mogg
 
----
+Estudante de Engenharia da Computação | Profissional de Cibersegurança & Pentester
 
-### Sobre Mim
-Graduando em Engenharia da Computação com base em Apiaí, SP. Movido pelo interesse profundo no funcionamento de sistemas de baixo nível, infraestrutura de redes e cibersegurança. Desenvolvo competências por meio de experimentação prática e laboratórios locais, com foco na configuração de serviços de rede, análise de protocolos e automação de processos.
+Sobre Mim
 
----
+Estudante de Engenharia da Computação com sólida base em cibersegurança, atuação em testes de intrusão (Pentest) e desenvolvimento de sistemas. Focado em auditoria de segurança, análise de vulnerabilidades, engenharia reversa e automação de processos, busco aplicar metodologias ofensivas e defensivas com rigor técnico e ética profissional.
 
-### Foco Técnico & Habilidades
+Habilidades Técnicas
 
-* **Sistemas Operacionais & Ambiente:** Linux (Ubuntu), Bash / Shell Scripting Avançado, Multiplexação de Terminal (Tmux)
-* **Redes & Infraestrutura:** Roteamento estático, Sub-redes (CIDR), Arquitetura de DNS (Bind9), Configuração de switches gerenciáveis, Análise de tráfego
-* **Cibersegurança & Ferramentas:** Testes práticos e manipulação de rede (Bettercap), infraestrutura de chaves SSH e análises criptográficas
-* **Linguagens de Programação:** Python, C, C++, Java (Desenvolvendo base sólida e scripts aplicados)
-* **Banco de Dados:** MySQL (Concepções fundamentais e consultas)
+Cibersegurança & Pentest: Avaliação de Vulnerabilidades, Testes de Intrusão (Pentest), Análise de Tráfego, Hardening de Sistemas e Modelagem de Ameaças
 
----
+Sistemas Operacionais & Ambientes: Sistemas Unix/Linux, Shell Scripting Avançado (Bash), Controle de Versão (Git)
 
-### Projetos Práticos & Laboratório
+Desenvolvimento de Software: Python, C, C++ e Java (Foco em automação de segurança, scripts customizados e lógica estruturada)
 
-* **Implantação de Laboratório de Redes:** Concepção e estruturação física de um laboratório de redes residencial utilizando switches gerenciáveis, atribuição manual de IPs estáticos e topologias locais de teste.
-* **Automação de DNS e Proxy:** Configuração e gerenciamento de servidores DNS Bind9 com zonas personalizadas de bloqueio RPZ, além de scripts automatizados para rotação de proxies SOCKS5.
-* **Exploração de Segurança e Criptografia:** Execução prática de avaliações de exposição de rede utilizando Bettercap e análises criptográficas envolvendo descoberta de chaves SSH.
-* **Automação & Scripting:** Desenvolvimento de fluxos de trabalho via CLI, scripts de processamento de texto e automação de manipulação de documentos utilizando Python e Bash.
+Gerenciamento de Dados: Fundamentos de Bancos de Dados Relacionais e Consultas SQL
 
----
-**GitHub:** [0x-Mogg](https://github.com/0x-Mogg)
+Projetos & Laboratórios
+
+Avaliação de Segurança & Pentest: Simulações controladas de cenários de ataque, auditorias de exposição e testes de robustez em ambientes isolados.
+
+Automação & Ferramentas de Segurança: Desenvolvimento de utilitários e scripts em Python e Bash para suporte a análises de segurança e triagem de dados.
+
+Engenharia de Sistemas: Projetos acadêmicos e práticos focados em desenvolvimento de software eficiente e manipulação de fluxos via linha de comando.
+
+Conecte-se Comigo
+
+GitHub: 0x-Mogg
